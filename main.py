@@ -4,8 +4,6 @@ import pandas as pd
 import os
 import time
 from combine import *
-from zipfile import ZipFile
-import io
 
 
 def main():
